@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
-<title>Insert title here</title>
+<title>추가한 파일 타이틀 수정하기..</title>
 </head>
 <body>
-
+        aㄴㅁㅇㄴㅁㅇㄴㅁㅇㅁㄴㅇsdasdsadasd
 </body>
 </html>
